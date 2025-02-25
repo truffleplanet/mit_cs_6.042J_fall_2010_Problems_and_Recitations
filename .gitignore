@@ -1,9 +1,3 @@
-# Ignore everything
-*
-
-# Allow markdown files
-!*.md
-
 # Allow README
 !README.md
 
