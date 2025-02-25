@@ -1,0 +1,48 @@
+# Ignore everything
+*
+
+# Allow markdown files
+!*.md
+
+# Allow README
+!README.md
+
+# Allow gitignore
+!.gitignore
+
+# Ignore hidden system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore VS Code & JetBrains IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore backup or temporary files
+*.swp
+*.swo
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails and cache files
+._*
+
+# Icon must end with two \r
+Icon?
+
+# macOS Folder attributes
+.Spotlight-V100
+.Trashes
+.Spotlight-V100
+.DocumentRevisions-V100
+.TemporaryItems
+.Trashes
+
+# macOS Temporary files
+*.tmp
+*.TemporaryItems
