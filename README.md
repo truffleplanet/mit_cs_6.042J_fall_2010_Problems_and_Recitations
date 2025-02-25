@@ -1,7 +1,7 @@
  https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
 ## 📌 Introduction  
-Welcome to my problem-solving repository! 🚀  
+Welcome to my studying repository! 🚀  
 This is where I store my solutions while studying CS 6.042J - Mathematics for Computer Science.  
 I upload solutions along with explanations and am always open to discussions! Feel free to leave feedback or suggest alternative approaches. 😊
 
