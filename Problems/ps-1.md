@@ -71,9 +71,9 @@
 
 > (c)The constants true and false themselves may be expressed using only nand. Construct an expression using an arbitrary statement A and nand that evaluates to true regardless of whether A is true or false. Construct a second expression that always evaluates to false. Do not use the constants true and false themselves in your statements.
 
-- $A \lor \neg A = \neg(\neg A\land A) = (\neg A \barwedge A) = (A \barwedge A)\barwedge A$ is always True.
-- So negation of above, is always False. $((A \barwedge A) \barwedge A) \barwedge ((A \barwedge A) \barwedge A)$  is always False.
-- or $A \land \neg A  = \neg(A \barwedge \neg A) = \neg(A\barwedge (A\barwedge A)) = \\ \quad(A\barwedge (A\barwedge A)) \barwedge (A\barwedge (A\barwedge A))$
+- $A \lor \neg A = \neg(\neg A\land A) = (\neg A \barwedge A) = (A \barwedge A)\barwedge A$    is always True.
+- So negation of above is always False. $((A \barwedge A) \barwedge A) \barwedge ((A \barwedge A) \barwedge A)$
+- or $A \land \neg A  = \neg(A \barwedge \neg A) = \neg(A\barwedge (A\barwedge A)) = (A\barwedge (A\barwedge A)) \barwedge (A\barwedge (A\barwedge A))$
 
 ## Problem 4
 
