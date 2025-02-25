@@ -16,7 +16,7 @@ Translate the following sentences from English to predicate logic. The domain th
 
 (c) There are no people who are 6.042 TA’s who did not get A’s in 6.042.
 
-- $\neg\exist x \in X: (T(x)\land\neg A(x))$
+- $\neg \exists x \in X: (T(x)\land\neg A(x))$
 
 (d) There are at least three people who are TA’s in 6.042 and have not taken 6.042
 
